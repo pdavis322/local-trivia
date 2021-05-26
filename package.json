@@ -1,0 +1,19 @@
+{
+  "name": "local-trivia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pdavis322/local-trivia.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pdavis322/local-trivia/issues"
+  },
+  "homepage": "https://github.com/pdavis322/local-trivia#readme"
+}
